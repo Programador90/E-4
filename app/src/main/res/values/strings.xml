@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="error_fetching_data">Error fetching data</string>
+</resources>
